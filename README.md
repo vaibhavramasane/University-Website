@@ -1,63 +1,82 @@
 🎓 University Website
 
-A fully responsive University Website built using HTML and CSS.
-This project represents a modern educational institution website with clean UI and structured layout.
+A modern and responsive University Website built using HTML5 and CSS3.
+This project showcases a clean layout, structured sections, and responsive design suitable for an educational institution website.
 
-🌐 Live Demo:
+🔗 Live Website:
 👉 https://vaibhavramasane.github.io/University-Website/
 
-📌 Features
+📖 About the Project
 
--Responsive Design (Mobile Friendly)
--Navigation Bar with Logo
--Home Page Section
--About Section
--Courses Section
--Contact Section
--Footer with useful links
--Clean and Structured Layout
--Flexbox based alignment
+The University Website is designed to represent an educational institution online.
+It includes essential sections like Home, About, Courses, and Contact with a well-structured layout and responsive design.
 
+This project helped strengthen frontend development skills and layout structuring using Flexbox.
 
+✨ Features
+
+✅ Fully Responsive Design
+
+✅ Navigation Bar with Logo
+
+✅ Hero Section
+
+✅ About Section
+
+✅ Courses Section
+
+✅ Contact Section
+
+✅ Footer with Useful Links
+
+✅ Clean UI and Structured Layout
+
+✅ Flexbox-based Alignment
 
 🛠️ Technologies Used
 
--HTML5
--CSS3
--Flexbox
+HTML5
 
+CSS3
 
+Flexbox
 
 📂 Project Structure
-
 University-Website/
 │
 ├── index.html
 ├── style.css
 └── images/
+🚀 How to Run the Project Locally
 
+Clone the repository:
 
+git clone https://github.com/vaibhavramasane/University-Website.git
 
-🎯 Purpose of the Project
+Open the project folder.
 
-This project was created to practice:
+Double-click on index.html to open it in your browser.
 
--Website layout design
--Responsive web design
--Flexbox alignment
--Clean UI development
+🎯 Learning Outcome
 
+Through this project, I improved my understanding of:
 
-🚀 How to Run Locally
+Responsive Web Design
 
--Download or clone the repository
--Open index.html in your browser
+Page Layout Structuring
 
-📷 Preview
+CSS Flexbox
 
-Open the live link to view the full website.
+Clean UI Development
 
+Website Deployment using GitHub Pages
 
-📌 Author
+📌 Live Demo
 
-Developed as part of frontend practice project.
+The project is deployed using GitHub Pages and can be accessed here:
+
+👉 https://vaibhavramasane.github.io/University-Website/
+
+👨‍💻 Author
+
+Developed as part of frontend development practice.
