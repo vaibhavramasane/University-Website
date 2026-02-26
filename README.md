@@ -7,7 +7,6 @@ This project represents a modern educational institution website with clean UI a
 👉 https://vaibhavramasane.github.io/University-Website/
 
 📌 Features
-
 Responsive Design (Mobile Friendly)
 
 Navigation Bar with Logo
@@ -26,6 +25,7 @@ Clean and Structured Layout
 
 Flexbox based alignment
 
+
 🛠️ Technologies Used
 
 HTML5
@@ -34,14 +34,17 @@ CSS3
 
 Flexbox
 
+
+
 📂 Project Structure
 University-Website/
 │
 ├── index.html
 ├── style.css
 └── images/
-🎯 Purpose of the Project
 
+
+🎯 Purpose of the Project
 This project was created to practice:
 
 Website layout design
@@ -52,16 +55,15 @@ Flexbox alignment
 
 Clean UI development
 
-🚀 How to Run Locally
 
+🚀 How to Run Locally
 Download or clone the repository
 
 Open index.html in your browser
 
 📷 Preview
-
 Open the live link to view the full website.
 
-📌 Author
 
+📌 Author
 Developed as part of frontend practice project.
